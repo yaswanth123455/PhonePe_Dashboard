@@ -1,5 +1,5 @@
 # <a href="https://yaswanth123455.github.io/PhonePe_Dashboard/" target="_blank">PhonePe_Dashboard
-## *Click the link above to open the fully interactive Power BI dashboard, where you can click filters, slicers, and explore the live metrics.*
+## *Click the link above to open the fully interactive Power BI dashboard, where you can click slicers, navigate and explore the live metrics.*
 
 ### 📌 Project Overview
 
